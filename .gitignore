@@ -1,0 +1,13 @@
+/*
+!.gitignore
+!build.gradle
+!settings.gradle
+!README.md
+!markets.txt
+!pacher-ng-123456.jks
+!gradle.properties
+!app/
+/app/build/
+/app/app.iml
+/app/src/androidTest
+/app/src/test
